@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ilia Nesterov](https://up.htmlacademy.ru/htmlcss/16/user/263603).
-* Наставник: `Евгений Андреев`.
+* Наставник: [Евгений Андреев](https://up.htmlacademy.ru/htmlcss/16/user/17204).
 
 ---
 
